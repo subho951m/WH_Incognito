@@ -3,17 +3,17 @@
 ## Tech Stack
 subho951m/WH_Incognito is built on the following main stack:
 
-- [Firebase](https://firebase.google.com/) – Realtime Backend / API
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- [Socket.IO](http://socket.io/) – Realtime Backend / API
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
-- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - [styled-components](https://styled-components.com) – JavaScript Framework Components
+- [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
+- [Socket.IO](http://socket.io/) – Realtime Backend / API
+- [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -24,17 +24,17 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 subho951m/WH_Incognito is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2862/qr2-jCLr.jpg' alt='Nodemailer'/> [Nodemailer](http://www.nodemailer.com/) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [subho951m/WH_Incognito](https://github.com/subho951m/WH_Incognito)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|01/05/24 <br/>Report generated|
+|30<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
